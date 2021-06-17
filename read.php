@@ -3,6 +3,7 @@
 
 Зайти в папку фронденд и запустить в консоле команду - npm install
 Зайти в папку фронденд и запустить в консоле команду - yarn dev
+записать туда домен сайта laravel /frontend/keys/keys.js
 
 зайти в проект laravel и в корне запустить команду - composer install
 зайти в проект laravel и в корне запустить команду - php artisan storage:link
